@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo "Riya: Hi Ribka"
-echo "Ribka:Hi Riya"
-echo "Riya: Welcomw to the devops Ribka"
-echo "Ribka: Thank you Riya!!"
+Person1=Riya
+Person2=Ribka
+
+echo "$Person1: Hi $Person2"
+echo "$Person2:Hi $Person1"
+echo "$Person1: Welcome to the devops $Person2"
+echo "$Person2: Thank you $Person1!!"
